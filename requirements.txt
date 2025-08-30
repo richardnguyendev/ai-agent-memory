@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+langchain
+chromadb
+sentence-transformers
+transformers            # optional
+ollama                 # optional (client wrapper)
